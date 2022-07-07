@@ -7,8 +7,8 @@ This is my Software Developer Portfolio repository.
 
 ## Automation of app deployment
 
-### How to deploy the app
+### Deploying the app
 
 ```
-gh-pages -d build
+yarn deploy 
 ```
